@@ -3,7 +3,10 @@
     <img src="../assets/img/lotolab_golden.svg" width="200"/>
   </picture>
 
-  <div>&nbsp;</div>
+  <div>
+    <h2 color="red">Tsailab</h2>
+    &nbsp;
+  </div>
 
 <!-- profile logo 个人资料徽标 -->
 
