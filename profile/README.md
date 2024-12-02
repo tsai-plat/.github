@@ -1,6 +1,6 @@
 <div align="center">
   <picture>
-    <img src="./assets/img/lotolab_golden.svg" width="200"/>
+    <img src="../assets/img/lotolab_golden.svg" width="200"/>
   </picture>
 
   <div>&nbsp;</div>
