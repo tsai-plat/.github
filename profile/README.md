@@ -8,6 +8,8 @@
     &nbsp;
   </div>
 
+
+
 <!-- profile logo 个人资料徽标 -->
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
@@ -19,6 +21,15 @@
 </div>
 
 
-# Tsai-plat
+## Tsailab Tools
+
+<p align="center">
+  <a href="https://www.npmjs.com/~tsailab" target="_blank"><img src="https://img.shields.io/npm/l/%40tsailab%2Fcli?color=%23FFDEAD&label=@tsai" alt="License" /></a>
+  <a href="https://www.npmjs.com/~tsailab" target="_blank"><img src="https://img.shields.io/npm/v/@tsailab/cli.svg?label=Cli" alt="Tsai cli" /></a>
+  <a href="https://discord.gg/lotolab" target="_blank"><img src="https://img.shields.io/badge/discord-online-brightgreen.svg" alt="Discord"/></a>
+  <a href="https://x.com/lamborghini171" target="_blank"><img src="https://img.shields.io/twitter/follow/nestframework.svg?style=social&label=Follow" alt="Follow us on Twitter"></a>
+  <a href="https://www.npmjs.com/~tsailab" target="_blank"><img src="https://img.shields.io/npm/dm/%40tsailab%2Fcli?style=flat&logoColor=%23FA0809" alt="Downloads" /></a>
+</p>
+
 
 
